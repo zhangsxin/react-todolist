@@ -1,9 +1,9 @@
 react-todolist-demo
 
 how:
-first£º git clone https://github.com/zhangsxin/react-todolist.git
+ git clone https://github.com/zhangsxin/react-todolist.git
 
-npm install
+then :npm install
 
 npm start
 
